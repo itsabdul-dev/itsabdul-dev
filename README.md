@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Abdul!
+# 👋 Hey, I'm Abdullahi!
 
 ### 💻 Full-Stack Developer | 🚀 Builder | 🤖 Tech Enthusiast
 
