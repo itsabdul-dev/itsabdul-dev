@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a developer based in **South Africa**, currently a **3rd year student studying Application Development at CPUT**. I love turning ideas into real, working software — building modern web applications, crafting clean user experiences, and exploring how AI can make software smarter.
+I'm a developer based in **South Africa**, currently a **3rd year student studying Application Development at CPUT**. I love turning ideas into real, working software and building modern web applications, crafting clean user experiences, and exploring how AI can make software smarter.
 
 ```ts
 const abdullahi = {
