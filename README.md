@@ -14,10 +14,10 @@
 <a href="https://itsabdullahiportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:230971091@mycput.ac.za">
   <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/abdullahi-farah-481b662a4/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -40,7 +40,7 @@ const abdullahi = {
 ```
 
 - 🔭 Currently building full-stack web applications
-- 🌱 Exploring AI-powered tools
+- 🌱 Exploring AI-powered tools and automation
 - 💬 Ask me about React, Next.js, or Node.js
 - ⚡ Mindset: **Build it. Break it. Learn from it. Make it better.**
 
@@ -81,45 +81,12 @@ const abdullahi = {
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itsabdul-dev/itsabdul-dev/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-> ⚙️ This animation needs a one-time GitHub Action setup — see the note at the bottom of this file.
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/itsabdul-dev/practiceflow-crm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdul-dev&repo=practiceflow-crm&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/itsabdul-dev/active-edge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdul-dev&repo=active-edge&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/itsabdul-dev/Calorie-tracker-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdul-dev&repo=Calorie-tracker-app&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/itsabdul-dev/E-commerce-Website-For-L-NE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdul-dev&repo=E-commerce-Website-For-L-NE&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
 🌍 Open to development opportunities, collaborations, and interesting projects.
 ⭐ Feel free to explore my repositories and see what I'm building!
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=itsabdul-dev&style=for-the-badge&color=6366F1" alt="Profile views" />
 
 </div>
 
