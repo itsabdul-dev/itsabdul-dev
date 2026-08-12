@@ -35,7 +35,7 @@ const abdullahi = {
   education: "3rd Year, Application Development @ CPUT",
   focus: ["Web Apps", "APIs & Databases", "AI Integrations"],
   currentlyLearning: "TypeScript & System Design",
-  funFact: "Debugs faster with coffee ☕"
+  funFact: "Debugs faster with coffee hehe ☕"
 };
 ```
 
