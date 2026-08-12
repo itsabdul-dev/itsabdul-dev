@@ -1,95 +1,126 @@
-# 👋 Hey, I'm Abdullahi!
+<div align="center">
 
-### 💻 Full-Stack Developer | 🚀 Builder | 🤖 Tech Enthusiast
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Hi%20There,%20I'm%20Abdullahi%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-I’m a developer who enjoys turning ideas into real, useful software.
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Building+with+React+%26+Next.js;Turning+Ideas+Into+Real+Products;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=520&height=45&color=06B6D4&vCenter=true&size=22" alt="Typing SVG" />
+</a>
 
-I love building modern web applications, creating clean user experiences, working with APIs and databases, and exploring how AI can make software smarter and more useful.
+<br/>
 
----
+<!-- Social badges -->
+<a href="https://itsabdullahiportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 🧑‍💻 What I Do
+</div>
 
-- 🚀 Build full-stack web applications
-- 🎨 Create clean, responsive & user-friendly interfaces
-- 🔌 Work with APIs, databases & backend systems
-- 🤖 Explore AI & emerging technologies
-- 🛠️ Turn ideas and problems into working products
-- 📚 Constantly learn, experiment & improve
+<br/>
 
----
+## 🧑‍💻 About Me
+
+I'm a developer based in **South Africa**, currently a **3rd year student studying Application Development at CPUT**. I love turning ideas into real, working software — building modern web applications, crafting clean user experiences, and exploring how AI can make software smarter.
+
+```ts
+const abdullahi = {
+  role: "Full-Stack Developer",
+  education: "3rd Year, Application Development @ CPUT",
+  focus: ["Web Apps", "APIs & Databases", "AI Integrations"],
+  currentlyLearning: "Advanced TypeScript & System Design",
+  funFact: "Debugs faster with coffee ☕"
+};
+```
+
+- 🔭 Currently building full-stack web applications
+- 🌱 Exploring AI-powered tools
+- 💬 Ask me about React, Next.js, or Node.js
+- ⚡ Mindset: **Build it. Break it. Learn from it. Make it better.**
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+**Languages**
 
-### ⚡ Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+<br/><br/>
 
----
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode" />
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=itsabdul-dev&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsabdul-dev&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsabdul-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabdul-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-## 🔥 Contribution Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=itsabdul-dev&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabdul-dev&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsabdul-dev&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
-## 🚀 What You'll Find Here
+<br/>
 
-💡 Ideas turned into real products  
-🔨 Projects I'm actively building  
-🧪 Experiments with new technologies  
-🤖 AI & automation projects  
-📈 Projects that show my growth as a developer
+## 🐍 Contribution Snake
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itsabdul-dev/itsabdul-dev/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
 
-## ⚡ My Mindset
+> ⚙️ This animation needs a one-time GitHub Action setup — see the note at the bottom of this file.
 
-> **Build it. Break it. Learn from it. Make it better.**
+<br/>
 
-I'm always learning, experimenting and looking for better ways to solve problems.
+## 🚀 Featured Projects
 
----
+<div align="center">
+  <a href="https://github.com/itsabdul-dev/practiceflow-crm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdul-dev&repo=practiceflow-crm&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/itsabdul-dev/active-edge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdul-dev&repo=active-edge&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/itsabdul-dev/Calorie-tracker-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdul-dev&repo=Calorie-tracker-app&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/itsabdul-dev/E-commerce-Website-For-L-NE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsabdul-dev&repo=E-commerce-Website-For-L-NE&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<br/>
 
 ## 🤝 Let's Connect
 
-🌍 Open to development opportunities, collaborations and interesting projects.
-
-⭐ **Feel free to explore my repositories and see what I'm building!**
-
----
-
 <div align="center">
 
-### 💻 Code. 🚀 Build. 📚 Learn. 🔥 Repeat.
+🌍 Open to development opportunities, collaborations, and interesting projects.
+⭐ Feel free to explore my repositories and see what I'm building!
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=itsabdul-dev&style=for-the-badge&color=6366F1" alt="Profile views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
