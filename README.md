@@ -39,9 +39,9 @@ I love building modern web applications, creating clean user experiences, workin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsabdul-dev&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api?username=itsabdul-dev&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabdul-dev&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsabdul-dev&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 
 </div>
 
