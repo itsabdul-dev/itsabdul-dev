@@ -34,7 +34,7 @@ const abdullahi = {
   role: "Full-Stack Developer",
   education: "3rd Year, Application Development @ CPUT",
   focus: ["Web Apps", "APIs & Databases", "AI Integrations"],
-  currentlyLearning: "Advanced TypeScript & System Design",
+  currentlyLearning: "TypeScript & System Design",
   funFact: "Debugs faster with coffee ☕"
 };
 ```
