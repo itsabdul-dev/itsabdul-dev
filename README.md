@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Building+with+React+%26+Next.js;Turning+Ideas+Into+Real+Products;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=520&height=45&color=06B6D4&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Building+with+React+%26+Next.js;Turning+Ideas+Into+Real+Products;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=520&height=45&color=06B6D4&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,15 +27,15 @@
 
 ## 🧑‍💻 About Me
 
-I'm a developer based in **South Africa**, currently a **3rd year student studying Application Development at CPUT**. I love turning ideas into real, working software and building modern web applications, crafting clean user experiences, and exploring how AI can make software smarter.
+I'm a developer based in **South Africa**, currently a **3rd year student studying Application Development at CPUT**. I love turning ideas into real, working software — building modern web applications, crafting clean user experiences, and exploring how AI can make software smarter.
 
 ```ts
 const abdullahi = {
   role: "Full-Stack Developer",
   education: "3rd Year, Application Development @ CPUT",
   focus: ["Web Apps", "APIs & Databases", "AI Integrations"],
-  currentlyLearning: "TypeScript & System Design",
-  funFact: "Debugs faster with coffee hehe ☕"
+  currentlyLearning: "Advanced TypeScript & System Design",
+  funFact: "Debugs faster with coffee ☕"
 };
 ```
 
@@ -72,7 +72,7 @@ const abdullahi = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabdul-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=itsabdul-dev&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
